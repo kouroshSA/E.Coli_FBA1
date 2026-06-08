@@ -4,6 +4,12 @@ Computational lab for flux balance analysis (FBA) of *E. coli* central metabolis
 using [COBRApy](https://cobrapy.readthedocs.io) and [Escher](https://escher.github.io).
 This is the programmatic equivalent of the EcoCyc Pathway Tools lab exercise.
 
+<p align="center">
+  <img src="Ecoli_Central_Metabolism_fluxes.png" alt="E. coli central metabolism flux map" width="80%"/>
+  <br/>
+  <em>E. coli central metabolism flux map</em>
+</p>
+
 ## Open in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kouroshSA/E.Coli_FBA1/blob/main/FBA_Part1_EcoColi.ipynb)
