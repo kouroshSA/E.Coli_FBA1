@@ -62,3 +62,14 @@ README.md
 - The bonus essentiality screen (Section 5) takes ~30 s and is suitable for students who finish early.
 - Generated figures (`.png`) and Escher maps (`.html`) can be downloaded from the Colab file browser
   for inclusion in lab reports.
+
+## Citation
+
+If you use this repository — its code, notebook, or figures — in publications or
+teaching materials, please cite it. GitHub's **"Cite this repository"** button
+(generated from [`CITATION.cff`](CITATION.cff)) provides ready-to-use APA and
+BibTeX entries.
+
+## License
+
+Released under the [MIT License](LICENSE).
